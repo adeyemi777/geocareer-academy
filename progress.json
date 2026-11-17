@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updated": "2026-11-16",
+  "updated": "2026-11-17",
   "status": {
     "0-0-0": "verified",
     "0-0-1": "verified",
@@ -12,7 +12,8 @@
     "0-0-7": "verified",
     "0-0-8": "verified",
     "0-0-9": "verified",
-    "0-0-10": "progress"
+    "0-0-10": "verified",
+    "0-0-11": "progress"
   },
   "projects": {}
 }
